@@ -53,4 +53,4 @@
     "answer": "It serves the interface between software and hardware.",
     "options": []
   }
-, {"id":"99870", "question":"3 popular ISAs today:", "answer":"x86 by intel, ARM by ARM LTD and RISC-V open source", "options":[]}]
+, {"id":"99870", "question":"3 popular ISAs today:", "answer":"x86 by intel, ARM by ARM LTD and RISC-V open source", "options":[]}, {"id":"61020", "question":"What is an Embedded system?", "answer":"A combination of computer hardware and software designed for a specific function.", "options":[]}]
