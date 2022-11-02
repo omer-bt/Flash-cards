@@ -1,0 +1,56 @@
+[
+  {
+    "id": "71046",
+    "question": "What is a cpu?",
+    "answer": "Brain of the computer,  it has all the circuity needed to proccess input, store data  and output results.",
+    "options": [""]
+  },
+  {
+    "id": "63888",
+    "question": "What can the proccessor perform?",
+    "answer": "1) Basic arithmetic 2) Logic Control 3) Input/Output",
+    "options": []
+  },
+  {
+    "id": "5418",
+    "question": "CPU principle components:",
+    "answer": "1) ALU (Arithmetic Logic Unit) \\n2) Processor Register \n3) Control Unit",
+    "options": []
+  },
+  {
+    "id": "39249",
+    "question": "Purpose of cache:",
+    "answer": "Used to reduce the average time to access memory",
+    "options": []
+  },
+  {
+    "id": "44313",
+    "question": "What is fetch fase:",
+    "answer": "when the (Instruction Register) gets data from the ram.",
+    "options": []
+  },
+  {
+    "id": "55771",
+    "question": "Proccessor register:",
+    "answer": "1) Temprorly store and maniplate values 2) Sends operands to the ALU and store the registers from them",
+    "options": []
+  },
+  {
+    "id": "1919",
+    "question": "Control Unit:",
+    "answer": "1) Fetch 2) Excution Cycle 3) Decode",
+    "options": []
+  },
+  {
+    "id": "54736",
+    "question": "ISA",
+    "answer": "Introduction Set Architectures",
+    "options": []
+  },
+  {
+    "id": "71928",
+    "question": "What does ISA serves?",
+    "answer": "It serves the interface between software and hardware.",
+    "options": []
+  }
+, {"id":"99870", "question":"3 popular ISAs today:", "answer":"x86 by intel, ARM by ARM LTD and RISC-V open source", "options":[]}]
