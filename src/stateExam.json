@@ -64,5 +64,179 @@
     "question": "What is an Embedded system?",
     "answer": "A combination of computer hardware and software designed for a specific function.",
     "options": []
+  },
+  {
+    "id": "10751",
+    "question": "Examples of embedded systems:",
+    "answer": "Gps trackers, Central heating, Medical devices, Arduino",
+    "options": []
+  },
+  {
+    "id": "44051",
+    "question": "Components of embedded systems:",
+    "answer": "Power SUpply, proccessor, memory, timers, serial communication ports, system application specific cicuits",
+    "options": []
+  },
+  {
+    "id": "64851",
+    "question": "Typical peripherals for embedded:",
+    "answer": "Serial communication Interfaces (SCI), Inter Integrated Circuit (I2C), Universal Serial Bus (USB), Multimedia Cards (SD cards), Network, General purpose Input/Output (GPIO)",
+    "options": []
+  },
+  {
+    "id": "4426",
+    "question": "Communication protocols in embedded systems:",
+    "answer": "1) Inter system protocol 2)Intra system protocol",
+    "options": []
+  },
+  {
+    "id": "94574",
+    "question": "Inter system protocol",
+    "answer": "External communication between devices",
+    "options": []
+  },
+  {
+    "id": "26118",
+    "question": "Intra system protocol",
+    "answer": "Internal communication between components in the circuit board",
+    "options": []
+  },
+  {
+    "id": "64357",
+    "question": "Example of Inter system:",
+    "answer": "USB, UART, USART",
+    "options": []
+  },
+  {
+    "id": "17328",
+    "question": "Example of Intra system protocol:",
+    "answer": "SPI, I2C, CAN",
+    "options": []
+  },
+  {
+    "id": "51444",
+    "question": "Program Unit:",
+    "answer": "Set of instructions that a computer follows in order to perform a particular task.",
+    "options": []
+  },
+  {
+    "id": "27779",
+    "question": "Subprogram:",
+    "answer": "A statement which can be reused to save memory space and coding time.",
+    "options": []
+  },
+  {
+    "id": "10752",
+    "question": "Example of a subfunction:",
+    "answer": "Functions, methods, prodcedures",
+    "options": []
+  },
+  {
+    "id": "78055",
+    "question": "Parameter evalution (Definition):",
+    "answer": "The proccess of mapping formal and actual parameters when a subprogram is called.",
+    "options": []
+  },
+  {
+    "id": "75003",
+    "question": "Parameter evalution:",
+    "answer": "1)Formal parameters are declared once. 2)Actual parameters (arguments) are declared in the call, 3)Formal list is determinative to parameter evalution",
+    "options": []
+  },
+  {
+    "id": "12930",
+    "question": "Pass by value:",
+    "answer": "Both parameters refer to the same memory location",
+    "options": []
+  },
+  {
+    "id": "60608",
+    "question": "Pass by value:",
+    "answer": "We will copy the vlaues to the formal parameter",
+    "options": []
+  },
+  {
+    "id": "38782",
+    "question": "Block:",
+    "answer": "A structure of source code, it can contain one or more declarations and statements.",
+    "options": []
+  },
+  {
+    "id": "11246",
+    "question": "Scope:",
+    "answer": "The palce wheere an item (variable, function, method, constant, ..etc) that has an identifier name is recongnized.",
+    "options": []
+  },
+  {
+    "id": "92167",
+    "question": "Abstract data type (ADT):",
+    "answer": "Objects whose behaviour is defined by a set of values and a set of operation, for example: stacks and queues",
+    "options": []
+  },
+  {
+    "id": "50390",
+    "question": "Generic programming:",
+    "answer": "It is to allow type (integer, string, objects) to be parameters to classes and interfaces.",
+    "options": []
+  },
+  {
+    "id": "34978",
+    "question": "Control systems:",
+    "answer": "It consists of subsystems or proccesses assembled for the purpose of controlling the output of the process.",
+    "options": []
+  },
+  {
+    "id": "34702",
+    "question": "Example of control systems:",
+    "answer": "Air conditioner maintaining temprature of the room, a lift moving upwards.",
+    "options": []
+  },
+  {
+    "id": "44804",
+    "question": "Gain and phase margin:",
+    "answer": "Can be derived from bode plot, which is used to know the stability of a system.",
+    "options": []
+  },
+  {
+    "id": "28657",
+    "question": "Gain margin (GM):",
+    "answer": "The amount of again which can increase ofr decrease without making the system unstable.",
+    "options": []
+  },
+  {
+    "id": "46225",
+    "question": "Phase margin (PM):",
+    "answer": "The amount of phase which can increase or decrease without making the system unstable.",
+    "options": []
+  },
+  {
+    "id": "83580",
+    "question": "Linear Systems:",
+    "answer": "A system whose output for a linear combination of inputs are the same as linear combination of indivisual responses to those inputs",
+    "options": []
+  },
+  {
+    "id": "85212",
+    "question": "Transfer function(definition):",
+    "answer": "The realtionship between the output signal of control system and the input for all possible input values.",
+    "options": []
+  },
+  {
+    "id": "34158",
+    "question": "Transfer function:",
+    "answer": "The transfer function for any LTI system is the laplace transform of the impulse response of the LTI system.",
+    "options": []
+  },
+  {
+    "id": "58575",
+    "question": "Netweork layers:",
+    "answer": "Physical, Data link, Network, Transfer, Session, Presentation, Application.",
+    "options": []
+  },
+  {
+    "id": "63284",
+    "question": "TCP(Transmission control unit):",
+    "answer": "Communication standard that enables applications, programs and computing devices to exchange messages over the network.",
+    "options": []
   }
-]
+, {"id":"11433", "question":"How does the tcp make sure that both sides are ready to transfer data?", "answer":"sing 3 way hand shake.", "options":[]}, {"id":"68494", "question":"UDP (User datagram protocol):", "answer":"Used to establish low latency and loss tolerating connection between applications on the internet.", "options":[]}, {"id":"50966", "question":"How does the UDP work?", "answer":"It is connectionless, so it does not garantuee data delivery.", "options":[]}, {"id":"71720", "question":"Combinational Logic design:", "answer":"A type of digital logic desgin that is implemented by boolean circuits, where the out put is a pure function of the present input.", "options":[]}, {"id":"594", "question":"Multiplexer:", "answer":"Adevice that selects between several digital input signals and one out put only.", "options":[]}, {"id":"76531", "question":"Demultiplexer:", "answer":"Combinantional logic circuit that can have multiple outputs with single input.", "options":[]}, {"id":"94721", "question":"Encoders:", "answer":"A combinantional logic circuit, used for binary operations like addition and subtraction.", "options":[]}, {"id":"97476", "question":"Decoders:", "answer":"Combinational logic circuits and it is oposite of encoders, used in code conversions, high performace memory systems and data disturibution.", "options":[]}, {"id":"6478", "question":"Digital comparators:", "answer":"Combinational circuit desgined to compare two inputs.", "options":[]}, {"id":"63254", "question":"Parity generators:", "answer":"Used for error detection during data transmission.", "options":[]}, {"id":"23188", "question":"Arithmetics Logic Unit (ALU):", "answer":"Combinational ciruit and part of a CPU that performs arithmatic and bitwise operations.", "options":[]}]
